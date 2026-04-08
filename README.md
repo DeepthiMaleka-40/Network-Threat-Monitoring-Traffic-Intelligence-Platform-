@@ -1,4 +1,4 @@
-# SentinelNode — Enterprise Network Traffic Analysis & IDS Platform
+# Network-Threat-Monitoring-Traffic-Intelligence-Platform
 
 <div align="center">
 
@@ -132,7 +132,7 @@ TrafficLogger  NetworkSniffer.packet_queue
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/EONRaider/Packet-Sniffer.git
+git clone https://github.com/Packet-Sniffer.git
 cd Packet-Sniffer
 
 # 2. Create a virtual environment (Python 3.11 recommended on Windows)
@@ -225,6 +225,3 @@ The professional UI with live charts, color-coded severity levels, and structure
 
 ---
 
-## ⚖️ Legal Disclaimer
-
-Use of code contained in this repository for engaging targets without prior mutual consent is illegal. It is the end user's responsibility to comply with all applicable local, state, and federal laws. This tool is endorsed solely for **educational environments** and **authorized penetration testing engagements**.
